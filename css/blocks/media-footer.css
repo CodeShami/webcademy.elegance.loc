@@ -1,0 +1,14 @@
+@media screen and (max-width: 768px) {
+  .footer__row {
+    flex-direction: column;
+  }
+
+  .nav__item {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  .nav__item:last-child {
+    margin-bottom: 0;
+  }
+}

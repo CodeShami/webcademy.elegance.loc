@@ -1,0 +1,17 @@
+@media screen and (max-width: 992px) {
+  .banner__title {
+    font-size: 41px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .banner__content {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .banner__title {
+    font-size: 35px;
+  }
+}
